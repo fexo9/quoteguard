@@ -4,7 +4,7 @@
 
 The quote looked fine. Then the price grew after you signed.
 
-QuoteGuard is a fixed audit discipline for vendor quotes: 7 documented traps, checked the same way every time, running on your own AI assistant. No subscription, no software to install — a prompt pack you use with the AI you already have.
+QuoteGuard is a fixed audit discipline for vendor quotes: 7 documented traps, checked the same way every time, the same checks, in the same order, every time. No subscription, no software to install — a structured prompt pack — no software to install.
 
 ## The 7 traps it audits
 
@@ -18,7 +18,7 @@ QuoteGuard is a fixed audit discipline for vendor quotes: 7 documented traps, ch
 
 ## What's inside
 
-- QuoteGuard v1.0 prompt pack (works with your AI assistant)
+- QuoteGuard v1.0 prompt pack
 - Vendor Quote Trap Library — the 7 traps, documented with real-world patterns
 - Fixed audit workflow: same checks, same order, every quote
 
